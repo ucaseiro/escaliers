@@ -17,7 +17,7 @@ textFont(myFont);
 createCanvas(windowWidth,windowHeight);
 background(0)
 carte = loadImage('img/Cartes/Fond-cartes.png')
-proba = int(random(61,100))
+proba = int(random(0,100))
 fill(255)
 textSize(50)
 text(proba,110,110)

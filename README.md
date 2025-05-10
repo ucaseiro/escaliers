@@ -1,2 +1,2 @@
-# DCarte Escaliers
+# Carte Escaliers
 https://ucaseiro.github.io/escaliers/
